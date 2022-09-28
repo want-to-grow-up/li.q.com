@@ -117,7 +117,7 @@ const USER_CONFIG = {
       // 一般都填自己
       name: '李楠',
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'olC2_6oqgl4-qg0goJVwdhb80vXI	',
+      id: 'olC2_6oqgl4-qg0goJVwdhb80vXI',
     }
     // 你可以不断按格式往下增加
     // ...
