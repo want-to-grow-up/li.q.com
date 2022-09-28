@@ -63,9 +63,9 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '梦琦',
+      name: '亲爱的，早上好',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'olC2_6oqgl4-qg0goJVwdhb80vXI	',
+      id: 'olC2_6oqgl4-qg0goJVwdhb80vXI',
       // 你想对他发送的模板消息的模板ID
       useTemplateId: 'ZSvYbbz1JiNHiFczSuq0Ogr1RiyQR85vqdqn0WhlctY',
       // 所在省份
