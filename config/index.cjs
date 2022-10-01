@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'olC2_6ufw0V1Iwzch28Sjij0LCv0',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '3wh2KCVyoowFbWwFWss2qvj4U9J5jkW4O_AHDwpkEBM',
+      useTemplateId: 'vx89jc_zR-OxfJxPszWXtK5FUuRfu0-ATDXOkNDo6zk',
       // 所在省份
       province: '北京市',
       // 所在城市
@@ -108,7 +108,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'olC2_6lNbSCrkENv4JjzD5iv2chY',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '3wh2KCVyoowFbWwFWss2qvj4U9J5jkW4O_AHDwpkEBM',
+      useTemplateId: 'vx89jc_zR-OxfJxPszWXtK5FUuRfu0-ATDXOkNDo6zk',
       // 所在省份
       province: '北京市',
       // 所在城市
@@ -149,7 +149,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'olC2_6sY1nobjE6zCsrYjD-tlCfQ',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '3wh2KCVyoowFbWwFWss2qvj4U9J5jkW4O_AHDwpkEBM',
+      useTemplateId: 'vx89jc_zR-OxfJxPszWXtK5FUuRfu0-ATDXOkNDo6zk',
       // 所在省份
       province: '北京市',
       // 所在城市
